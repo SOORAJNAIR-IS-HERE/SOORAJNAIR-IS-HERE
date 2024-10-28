@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sooraj_nair__) 
-[![LinkedIn](www.linkedin.com/in/sooraj-nair-) 
+[![LinkedIn]([www.linkedin.com/in/sooraj-nair-](https://www.linkedin.com/in/sooraj-nair-408039311/)) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@SOORAJ-NAIR) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SOORAJ_NAIR_)
 
