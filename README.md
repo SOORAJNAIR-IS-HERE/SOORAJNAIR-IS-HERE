@@ -1,10 +1,20 @@
-# 💫 It's Me:
-🔭 I’m currently working on tools for pentesting using Python.<br>
-👯 I’m looking to collaborate on bug bounty programs.<br>
-🤝 I’m looking for help creating new tools in other languages.<br>
-🌱 I’m currently learning cybersecurity.<br>
-💬 Ask me about cybersecurity.<br>
-⚡ Fun fact: Jokers are not joking!
+# 💫 Who Am I?
+
+## Hey there! I'm passionate about **cybersecurity** and currently diving deep into **penetration testing** tools with Python. Here’s a bit about what I’m working on and looking forward to collaborating on;
+
+```python
+🔭 Currently crafting tools for pentesting, mostly with Python magic.
+
+👯 Keen to collaborate on bug bounty adventures.
+
+🤝 Open to learning and exploring tool development in new languages.
+
+🌱 Cybersecurity student, always absorbing new knowledge.
+
+💬 Dive into cybersecurity convos with me!
+ 
+⚡Jockers are not jokinng and Hackers think like artists, they just paint with code.
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sooraj_nair__) 
