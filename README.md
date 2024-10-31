@@ -1,6 +1,6 @@
 # 💫 Who Am I?
 
-## Hey there! I'm passionate about **cybersecurity** and currently diving deep into **penetration testing** tools with Python.
+## I'm passionate about **cybersecurity** and currently diving deep into **penetration testing** tools with Python.
 
 ```python
 🔭 Currently crafting tools for pentesting, mostly with Python magic.
