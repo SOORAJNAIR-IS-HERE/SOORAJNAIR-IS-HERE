@@ -2,7 +2,7 @@
 
 ## I'm passionate about **cybersecurity** and currently diving deep into **penetration testing** tools with Python.
 
-```python
+
 🔭 Currently crafting tools for pentesting, mostly with Python magic.
 
 👯 Keen to collaborate on bug bounty adventures.
@@ -14,7 +14,6 @@
 💬 Dive into cybersecurity convos with me!
  
 ⚡Jockers are not jokinng and Hackers think like artists, they just paint with code.
-```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sooraj_nair__) 
