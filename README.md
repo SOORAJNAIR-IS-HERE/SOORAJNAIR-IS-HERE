@@ -1,4 +1,4 @@
-# 💫 Hey it's mee?
+# 💫 Hey it's me!
 
 ## I'm passionate about **cybersecurity** and currently diving deep into **penetration testing** tools with Python.
 
